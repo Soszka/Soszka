@@ -3,9 +3,9 @@
 
 <h3><strong>💁🏻‍♂️ About Me:</strong></h3>
 I am 24 years old engineer who graduated from the Faculty of Electrical and Computer Engineering at the Rzeszów University of Technology. All the projects I have created are available on my 
-<a href="https://soszka.github.io/SCSS-cityLayout">PORTFOLIO.<a>
+<a href="https://bartlomiejsocha.pl">PORTFOLIO.<a>
 The main technologies that I have become familiar with are React and Angular. If you are interested in working with me, please check my
-<a href="https://soszka.github.io/SCSS-cityLayout">RESUME.<a>
+<a href="./Images/CV_BS_PORTFOLIO.pdf" download="CV_BS_PORTFOLIO.pdf">RESUME.<a>
 
 <br>
 
